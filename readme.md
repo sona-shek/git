@@ -1,2 +1,3 @@
-#this is read me
-from main 
+
+#this is readme from bug
+>>>>>>> bug
